@@ -1,2 +1,2 @@
-# -Sistema-de-Gesti-n-de-Biblioteca
+# -Sistema-de-Gestion-de-Biblioteca
 Documentación del Sistema de Gestión de Biblioteca
