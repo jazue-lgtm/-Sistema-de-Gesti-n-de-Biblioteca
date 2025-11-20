@@ -1,0 +1,10 @@
+REQUERIMIENTOS NO FUNCIONALES
+
+Código: 	Requerimiento No Funcional
+
+RNF1	El sistema debe responder a las acciones del usuario en menos de 3 segundos.
+
+RNF2	Los datos de los usuarios deben almacenarse en una base de datos segura (encriptación de contraseñas).
+
+RNF3	La interfaz debe ser intuitiva y accesible desde navegadores modernos.
+
