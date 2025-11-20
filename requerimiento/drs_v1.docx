@@ -1,0 +1,15 @@
+REQUERIMIENTOS FUNCIONALES
+
+Código	Requerimiento Funcional
+
+
+RF1	El sistema deberá permitir que nuevos usuarios se registren usando su nombre , correo y contraseña.
+
+RF2	El sistema tiene que verificar que el correo con el cual se ingresa , no esté registrado previamente.
+
+RF3	El sistema debe dar acceso al momento de ingresar con el correo y la contraseña.
+
+RF4	El sistema debe dar acceso a que el usuario pueda editar su información personal.
+
+RF5	El sistema debe mostrar notificaciones o viñetas de que todo salió correctamente o en tal caso , que no fue así.
+
